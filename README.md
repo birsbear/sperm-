@@ -5,3 +5,9 @@ resnet sperm 分類
 利用四千張影像和resnet50網路進行訓練
 
 test acc 為86%
+
+正常精子
+!['normal sperm']
+
+非正常精子
+!['unnormal sperm']
