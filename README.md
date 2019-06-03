@@ -12,6 +12,7 @@ test acc 為86%
 
 異常精子
 
+!['unnormal sperm'](image2350.png)
 
 非精子
 
