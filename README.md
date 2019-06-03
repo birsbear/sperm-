@@ -7,7 +7,9 @@ resnet sperm 分類
 test acc 為86%
 
 正常精子
+
 !['normal sperm'](image251.png)
 
 非正常精子
+
 !['unnormal sperm'](image2070.png)
